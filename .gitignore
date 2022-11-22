@@ -1,0 +1,5 @@
+venv/
+flask/
+*.pyc
+__pycache__/
+.vscode/
